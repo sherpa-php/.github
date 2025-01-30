@@ -2,7 +2,7 @@ name: Improvement to existing functionality
 description: Suggest an improvement to something that already exists
 labels: ["improvement", "needs triage"]
 assignees: []
-projects: "Cuby-board/2"
+projects: "sherpa-php/4"
 
 body:
     - type: textarea
