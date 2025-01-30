@@ -2,7 +2,7 @@ name: New feature request
 description: Suggest a new idea for this project
 labels: ["needs triage", "new change"]
 assignees: []
-projects: "Cuby-board/2"
+projects: "sherpa-php/4"
 
 body:
     - type: textarea
