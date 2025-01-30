@@ -1,8 +1,8 @@
-name: Bug repport
+name: Bug report
 description: Create a bug report to help us improve
 title: "<title>"
 labels: ["bug"]
-projects: "Cuby-board/2"
+projects: "sherpa-php/4"
 
 body:
     - type: textarea
